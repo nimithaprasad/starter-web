@@ -10,6 +10,6 @@ Sample website with plenty of files for demos
 
 into text
 
-## deployment
+## Deployment
 
-deploy text
+deployment related info
