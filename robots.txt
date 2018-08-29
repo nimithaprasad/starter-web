@@ -2,4 +2,4 @@
 
 User-agent: *
 
-name: rob
+name: rob, bot
