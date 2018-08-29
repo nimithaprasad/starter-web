@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 into text
 
+##How to contribute
+
+plz fork this repo and issue pull requests for review
+
 ## Deployment
 
 deployment related info
