@@ -12,7 +12,7 @@ into text
 
 ##How to contribute
 
-plz fork this repo and issue pull requests for review
+plz fork this repo and issue pull requests for 
 
 ## Deployment
 
