@@ -13,3 +13,7 @@ into text
 ## Deployment
 
 deployment related info
+
+###Copyright
+
+git.training purposes
