@@ -20,4 +20,4 @@ deployment related info
 
 ###Copyright
 
-git.training purposes
+git.training.
